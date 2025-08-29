@@ -1,17 +1,17 @@
 const score = 2345
-// console.log(score);
+console.log(score);
 
 const balance = new Number(56)
-// console.log(balance);
-// console.log(balance.toString().length); //no kitne digits m hai vo btata hai
+console.log(balance);
+console.log(balance.toString().length); //no kitne digits m hai vo btata hai
 
-// console.log(balance.toFixed(2)); //decimal ke badh value kitni rakhni hai uske liye use hota hai
+console.log(balance.toFixed(2)); //decimal ke badh value kitni rakhni hai uske liye use hota hai
 
 const random = 123.234
-// console.log(random.toPrecision(4)); //round off or exact value btane ke liye use hota hai
+console.log(random.toPrecision(4)); //round off or exact value btane ke liye use hota hai
 
 const amount = 1234567890
-// console.log(amount.toLocaleString('en-IN')); //commas lagte hai isse mostly use in accounts eg:- 1,00,000
+console.log(amount.toLocaleString('en-IN')); //commas lagte hai isse mostly use in accounts eg:- 1,00,000
 
 //++++++++++++++++++++++++++++++ MATHS ++++++++++++++++++++++++++++++++++++++
 
